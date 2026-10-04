@@ -1,109 +1,186 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+# Hi, I'm Jude Ajanthan 👋
+
+### Software Quality Assurance | Test Automation | API Testing
+
+BSc in Information Systems graduate from the
+**University of Colombo School of Computing (UCSC)**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/judeajanthan/)
+
 </div>
 
-###
+---
 
-<div align="center">
-  <a href="www.linkedin.com/in/judeajanthan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+## 👨‍💻 About Me
 
-###
+I am a Software Quality Assurance professional with hands-on experience in manual testing, functional testing, regression testing, UI testing, API testing, test case design, and defect reporting.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=judeajanthan.judeajanthan&"  />
-</div>
+I have experience working with Agile/Scrum teams and have developed test automation projects using **Selenium with Java** and **Playwright with TypeScript**. I am interested in building reliable, maintainable test automation solutions and growing further in Software Quality Engineering.
 
-###
+---
 
-<h1 align="center">Hey there I'm Ajay 👋</h1>
+## 🧪 QA & Testing
 
-###
+* Manual Testing
+* Functional Testing
+* Regression Testing
+* Smoke Testing
+* UI Testing
+* API Testing
+* Test Case Design & Execution
+* Requirement Analysis
+* Defect Reporting & Tracking
+* Exploratory & Ad-hoc Testing
+* Agile / Scrum
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
-
-<p align="left">I'm from Srilanka<br><br>- 📚 I'm currently an Undergraduate at University of Colombo School of Computing</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+## 🤖 Test Automation
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" alt="opengl logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="Selenium" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+<img width="12" />
+
+<img src="https://playwright.dev/img/playwright-logo.svg" height="40" alt="Playwright" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="Maven" />
+<img width="12" />
+
 </div>
 
-###
+**Tools:** Selenium WebDriver · Playwright · TestNG · REST Assured · Postman · Maven · Page Object Model (POM)
 
-<h3 align="left">🔥   My Stats :</h3>
+---
 
-###
+## 💻 Languages & Technologies
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=judeajanthan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub" />
+
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=judeajanthan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=judeajanthan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+## 🚀 Featured Projects
+
+### 🔹 Selenium Test Automation Framework
+
+**Java · Selenium WebDriver · TestNG · Maven · Page Object Model**
+
+A UI test automation framework developed as part of a Software Quality Assurance and Test Automation course.
+
+**Focus areas:**
+
+* Page Object Model
+* Reusable automation components
+* TestNG test execution
+* Test data management
+* Browser automation
+* Maven project structure
+
+➡️ **[View Repository](https://github.com/judeajanthan)**
+
+---
+
+### 🔹 Playwright Test Automation Framework
+
+**TypeScript · Playwright · Page Object Model**
+
+A web application automation project developed as part of a Software Quality Assurance and Test Automation course.
+
+**Focus areas:**
+
+* Page Object Model
+* Reusable helper functions
+* UI test automation
+* Test data handling
+* Assertions and validations
+* Structured test organization
+
+➡️ **[View Repository](https://github.com/judeajanthan)**
+
+---
+
+### 🔹 API Test Automation
+
+**TypeScript · Playwright API Testing · REST APIs**
+
+An API automation project focused on validating REST API behaviour, authentication, request data, response data, and API workflows.
+
+**Focus areas:**
+
+* GET / POST API testing
+* Request and response validation
+* Authentication
+* API test data
+* Reusable API clients
+* Status code and response validation
+
+➡️ **[View Repository](https://github.com/judeajanthan)**
+
+---
+
+### 🔹 BusHubLK
+
+**React · React Native · Node.js · Express.js · PostgreSQL**
+
+A university group project developed to improve public bus transportation through passenger and driver applications and an SLTB web platform.
+
+My contributions included mobile application development, backend integration, live-tracking functionality, and manual test case development for the tracking feature.
+
+➡️ **[View Repository](https://github.com/judeajanthan)**
+
+---
+
+## 📜 Certifications
+
+* **ISTQB Certified Tester – Foundation Level (CTFL)**
+* **ISTQB Certified Tester – Generative AI**
+
+---
+
+## 🛠️ Other Tools & Technologies
+
+**Testing:** Jira · Postman · REST Assured · EchoAPI
+
+**Development:** React · React Native · Node.js · Express.js · PHP · MySQL
+
+**Development Tools:** Git · GitHub · IntelliJ IDEA · VS Code
+
+**Database:** PostgreSQL · MySQL · SQL
+
+---
+
+## 📫 Connect With Me
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/judeajanthan/)
+
 </div>
-
-###
-ghg
